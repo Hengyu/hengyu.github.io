@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Artlvr</title>
   
-  
+  <subtitle>Art of Designing and Creating</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://artlvr.com/"/>
