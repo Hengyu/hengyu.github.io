@@ -5,9 +5,9 @@
   <subtitle>Art of Designing and Creating</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://artlvr.com/"/>
+  <link href="https://artlvr.com/"/>
   <updated>2021-02-18T10:49:37.908Z</updated>
-  <id>http://artlvr.com/</id>
+  <id>https://artlvr.com/</id>
   
   <author>
     <name>Hengyu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Introducting CourseBot</title>
-    <link href="http://artlvr.com/2021/02/18/introducing-coursebot/"/>
-    <id>http://artlvr.com/2021/02/18/introducing-coursebot/</id>
+    <link href="https://artlvr.com/2021/02/18/introducing-coursebot/"/>
+    <id>https://artlvr.com/2021/02/18/introducing-coursebot/</id>
     <published>2021-02-18T10:30:00.000Z</published>
     <updated>2021-02-18T10:49:37.908Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>Introducting ChessBot</title>
-    <link href="http://artlvr.com/2018/04/26/introducing-chessbot/"/>
-    <id>http://artlvr.com/2018/04/26/introducing-chessbot/</id>
+    <link href="https://artlvr.com/2018/04/26/introducing-chessbot/"/>
+    <id>https://artlvr.com/2018/04/26/introducing-chessbot/</id>
     <published>2018-04-26T14:30:00.000Z</published>
     <updated>2021-02-18T10:36:14.776Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://artlvr.com/2017/10/05/hello-world/"/>
-    <id>http://artlvr.com/2017/10/05/hello-world/</id>
+    <link href="https://artlvr.com/2017/10/05/hello-world/"/>
+    <id>https://artlvr.com/2017/10/05/hello-world/</id>
     <published>2017-10-05T14:40:30.000Z</published>
     <updated>2018-04-26T14:09:54.828Z</updated>
     
