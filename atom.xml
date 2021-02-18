@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://artlvr.com/"/>
-  <updated>2018-04-26T14:56:58.795Z</updated>
+  <updated>2021-02-18T10:49:37.908Z</updated>
   <id>http://artlvr.com/</id>
   
   <author>
@@ -17,13 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Introducting CourseBot</title>
+    <link href="http://artlvr.com/2021/02/18/introducing-coursebot/"/>
+    <id>http://artlvr.com/2021/02/18/introducing-coursebot/</id>
+    <published>2021-02-18T10:30:00.000Z</published>
+    <updated>2021-02-18T10:49:37.908Z</updated>
+    
+    <content type="html"><![CDATA[<p>CourseBot let you manage courses easily.</p><a id="more"></a><p>CourseBot offers you a clean and beautiful designed Course Graph, thus you are able to check out courses by day or by week.</p><p>CourseBot will not record, obtain or disclose your personal data. The courses data will only be stored locally, and will not be transmitted to any third parties.</p><p>If you have any suggestions or complaints, please feel free to tell us.<br>E-mail: <a href="mailto:ustcbot@outlook.com">ustcbot@outlook.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;CourseBot let you manage courses easily.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Introducting ChessBot</title>
     <link href="http://artlvr.com/2018/04/26/introducing-chessbot/"/>
     <id>http://artlvr.com/2018/04/26/introducing-chessbot/</id>
     <published>2018-04-26T14:30:00.000Z</published>
-    <updated>2018-04-26T14:56:58.795Z</updated>
+    <updated>2021-02-18T10:36:14.776Z</updated>
     
-    <content type="html"><![CDATA[<p>ChessBot is an elegant chess app with powerful features.</p><a id="more"></a><ul><li>Basic move operations and outcome detection</li><li>A strong chess engine which offers hint for the next move</li><li>Human vs Human/Computer modes</li><li>PGN files import and export</li><li>Game saving and sharing</li><li>Encyclopedia of Chess Openings</li><li>Play with friends via iMessages</li><li>Preview pgn files in iOS File app</li></ul><p>And more features will be added in the future.<br>Get it from <a href="https://itunes.apple.com/us/app/chessbot/id1065334169">App Store</a> and try it now.</p><p>If you have any suggestions or complaints, please feel free to tell us.<br>Twitter:@gitbotapp</p>]]></content>
+    <content type="html"><![CDATA[<p>ChessBot is an elegant chess app with powerful features.</p><a id="more"></a><ul><li>Basic move operations and outcome detection</li><li>A strong chess engine which offers hint for the next move</li><li>Human vs Human/Computer modes</li><li>PGN files import and export</li><li>Game saving and sharing</li><li>Encyclopedia of Chess Openings</li><li>Play with friends via iMessages</li><li>Preview pgn files in iOS File app</li></ul><p>And more features will be added in the future.<br>Get it from <a href="https://itunes.apple.com/us/app/chessbot/id1065334169">App Store</a> and try it now.</p><p>If you have any suggestions or complaints, please feel free to tell us.<br>E-mail: <a href="mailto:chessbotapp@outlook.com">chessbotapp@outlook.com</a></p>]]></content>
     
     <summary type="html">
     
